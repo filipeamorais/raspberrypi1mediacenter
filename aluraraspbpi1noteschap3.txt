@@ -1,0 +1,10 @@
+Aula3
+
+How to initiate:
+"Com a imagem do Raspbian devidamente instalada no SD Card do Raspberry PI, chegou a hora de ligá-lo e configurá-lo. Então, é importante conectar o teclado, mouse, monitor e por último a fonte de alimentação. Uma vez colocada a fonte de alimentação, se dará início ao processo de inicialização do Raspberry PI."
+IF earlier version:
+"Caso você tenha utilizado alguma versão anterior à imagem atual do Raspbian (Jessie), o processo de inicialização terminará no modo texto, onde será solicitado um login e uma senha. O login é pi, e a senha é raspberry. Assim que você digitar os dois e der um ENTER, você estará logado no sistema:"
+
+9)
+
+"6 - Sentiu falta do botão de ligar e desligar? Pois é, a placa não tem um botão para tal. Se você quiser reiniciar o sistema, execute o comando sudo reboot no terminal. Se por acaso você cansou e quer desligá-lo, o comando é sudo poweroff. Depois de desligado, a fonte pode ser retirada." 

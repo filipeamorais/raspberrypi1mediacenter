@@ -1,0 +1,47 @@
+Aula1
+3)
+SBC - Single Board Computer - Processor, I/O and so on whole functional.
+
+Advantages: Computer of a Credit Card size.
+
+Can be used as a desktop. There is the Media Center. Control Automation. Robot. 
+
+www.rasperrypi.org
+
+http://blog.rmerces.com
+
+http://blog.rmerces.com/2015/01/projeto-alvinbot-v-10.html
+
+https://retropie.org.uk/
+
+4) Which model to buy? That are versions 1, 2 and 3 and what varies are the processor and memory RAM.
+
+WHICH MODEL IS THIS ONE I HAVE??? I guess: Raspberry P, Versão 1 - Modelo B dentro de um case transparente com WiFi Dongle.
+
+5) Explanation of the versions (see table)
+
+6) Arduino X RaspberryPi: The first is microcontroller and the second is a single board computer. The raspberrypi let you run an operational system, install softwares and so on like a regular computer.
+
+"Usando o Raspberry Pi, você roda na verdade um sistema operacional, normalmente Linux. Ou seja, você terá uma interface gráfica, pode instalar outros softwares, pode conectar mouse ou teclado e assim adiante. Tudo que você já está acostumado no seu computador atual.
+
+No Arduino não há um sistema operacional, nem tem conectores USB, muito menos saída HDMI ou rede. Para executar um programa, você deve escrever o seu código que será compilado (traduzido) para a linguagem do microcontrolador, e este código roda diretamente nele."
+
+Advantages of Arduino:
+"Claro que tem! Ele foi pensado para controlar componentes eletrônicos, como sensores (principalmente análogos), motores, LED, botões, etc, e assim possui uma tolerância e flexibilidade maior para tal. Por exemplo, por padrão o Arduino já sabe receber valores analógicos de um sensor, enquanto o Raspberry Pi só trabalha com uma entrada digital."
+
+7) Minimum to turn on the RaspberryPi
+
+"O que eu realmente preciso?
+
+O mínimo preciso para ligar o Raspberry PI é uma fonte e um SD Card. No próximo capítulo veremos como instalar o sistema operacional, mas já sabemos que o SD Card é o HD do Raspberry.
+
+Então, a fonte e o SD Card são o mínimo necessário para ligar o Raspberry PI, mas claro que se você quiser usar a rede cabeada vai precisar um cabo RJ45. Se quiser utilizar o Raspberry PI como Desktop, um monitor, teclado e mouse são necessários. Então dependendo do seu projeto e ideia, outros periféricos podem ser úteis."
+
+9)The operational system is on the SD card.
+Tips: Outra dica é comprar um SD Card de classe 10. Uma classe define a velocidade do cartão. Classe 10 significa que a escrita acontece com um mínimo de 10MB/s. 
+
+The problem with the source:
+"A sua fonte deve ter 5V e no mínimo 2A. Muitas fontes tem uma amperagem menor e quando você usa o seu Raspberry PI com vários periféricos que consomem energia pelo USB, a amperagem cai e pode ficar insuficiente para o sistema. O resultado disso é que o Raspberry PI pode desligar do nada, ficar reiniciando o tempo todo ou ter problemas na escrita."
+
+
+

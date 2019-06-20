@@ -1,0 +1,28 @@
+Aula2
+1) Download the image and install on the RaspberryPi
+
+The oficial image is the Raspbian. Its a Linux version for raspberry and it is the base for all the others.
+
+To install the image we will need the Win32 Disk Imager:
+
+"Instalando o Raspbian no SD Card do seu Raspberry PI
+
+Para instalar o Raspbian no SD Card, vamos usar o Win32 Disk Imager (usuários de Windows), você baixá-lo aqui: https://sourceforge.net/projects/win32diskimager/."
+
+Raspbian (Rasperry + Debian)
+
+"Debian é a principal distribuição de Linux, mantida pelo projeto Debian GNU/Linux (ou simplesmente Debian)"
+
+5)
+
+Formatando o seu SD Card
+
+Se você já usou o seu SD Card para outro propósito, é possível que a ferramenta Win32 Disk Imager não detecte todo o tamanho do cartão.
+
+Nesse caso é preciso formatar o SD Card antes de gravar a imagem.
+
+Para tal, você pode baixar o programa: SD Card Formatter.
+
+Uma vez instalado, basta selecionar o SD Card montado para iniciar a formatação:
+
+THERE IS A WHOLE DIFFERENT PROCESS FOR WRITING THE IMAGE ON LINUS AND MAC.
